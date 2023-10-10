@@ -1,0 +1,23 @@
+body{
+    color: white;
+    background-color: aquamarine;
+
+}
+
+.heading
+
+{
+    width: 80%;
+    font-size: 22px;
+}
+
+.name_of_objets, #result_objet_name, #result_objet_accuracy
+{
+    color: brown;
+}
+
+#camera{
+    border: 2x dashed black;
+    width: 350px;
+    height: 300px;
+}
